@@ -1,0 +1,4 @@
+traffic.c:9:6:All_Led_Off	8	static
+traffic.c:15:6:SetRED	8	static
+traffic.c:21:6:SetGREEN	8	static
+traffic.c:27:6:SetYELLOW	8	static

@@ -1,0 +1,2 @@
+display7seg.c:9:6:Display7SEG	16	static
+display7seg.c:106:6:Led7SEGOff	8	static
